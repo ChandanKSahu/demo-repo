@@ -1,3 +1,3 @@
 # Main Header - Demo
 
-Some Description !!!
+--- Some redundant Description ---
